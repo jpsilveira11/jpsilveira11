@@ -1,4 +1,4 @@
-## Opa, traqnuilo?
+## Opa, tranquilo?
 
  <div>
    <a href="https://github.com/jpsilveira11">
