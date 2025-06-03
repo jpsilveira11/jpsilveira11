@@ -1,14 +1,16 @@
-## Opa, tranquilo?
+# Opa, tranquilo?👋🏾
 
- <div>
-   <a href="https://github.com/jpsilveira11">
+   Bem-vindo ao meu [github](https://github.com/jpsilveira11)!👨🏾‍💻
+   <br>
+   Recém formado em Ciência da Computação, estou à procura do meu primeiro emprego na área.🎓
+   <br>
+   Já deu uma olhada no meu [portfolio](https://jpespechit.netlify.app)?📄 
+   <br>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpsilveira11&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpsilveira11&layout=compact&langs_count=6&theme=tokyonight"/>
-
-</div>
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=python,django,flask,html,css,javascript,react,angular,git,github,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,django,flask,html,css,javascript,react,nodejs,git,github,linux)](https://skillicons.dev)
 
 <!-- &perline=${amount}
 <div style="display: inline_block"><br>
