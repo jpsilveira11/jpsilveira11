@@ -71,7 +71,7 @@
 ![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/260088005740593153)
 [![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/260088005740593153)](https://dev.discordprofiles.me/openspotify/260088005740593153)   
  
-  ![Snake animation](https://github.com/jpsilveira11/jpsilveira11/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/jpsilveira11/jpsilveira11/blob/output/github-snake-dark.svg)
 
 </div>
 
