@@ -1,16 +1,28 @@
-# Opa, tranquilo?👋🏾
+# Greetings!👋🏾
 
-   Bem-vindo ao meu [github](https://github.com/jpsilveira11)!👨🏾‍💻
+   Welcome to my [github](https://github.com/jpsilveira11)!👨🏾‍💻
    <br>
-   Recém formado em Ciência da Computação, estou à procura do meu primeiro emprego na área.🎓
+   Recently graduated in Computer Science, i'm looking for my first I.T. job.🎓
    <br>
-   Já deu uma olhada no meu [portfolio](https://jpespechit.netlify.app)?📄 
+   Did you checked out my [portfolio](https://jpespechit.netlify.app)?📄 
    <br>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpsilveira11&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+## Some technologies i use/used:
+[![My Skills](https://skillicons.dev/icons?i=python,django,flask,html,css,javascript,typescript,nodejs,react,git,github,linux)](https://skillicons.dev)
+
+## My Github stats
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpsilveira11&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpsilveira11&layout=compact&langs_count=6&theme=tokyonight"/>
+
+## Contact me
+
+<!--<details>
+  <summary>Here my Github stats:</summary>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpsilveira11&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpsilveira11&layout=compact&langs_count=6&theme=tokyonight"/>
-<br>
+</details> -->
 
-[![My Skills](https://skillicons.dev/icons?i=python,django,flask,html,css,javascript,react,nodejs,git,github,linux)](https://skillicons.dev)
+
 
 <!-- &perline=${amount}
 <div style="display: inline_block"><br>
@@ -33,7 +45,6 @@
 <br>
 -->
  
-  ### Contato:
  
 <div> 
  <!-- 
@@ -52,7 +63,10 @@
   <a href="https://discordapp.com/users/260088005740593153" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
  <a href="https://steamcommunity.com/id/InsiraQualquerCoisaAqui/" target"_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
 
-   
+![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/260088005740593153?simple=true)
+![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/260088005740593153)
+![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/260088005740593153)
+[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/260088005740593153)](https://dev.discordprofiles.me/openspotify/260088005740593153)   
  
   ![Snake animation](https://github.com/jpsilveira11/jpsilveira11/blob/output/github-contribution-grid-snake.svg)
 
