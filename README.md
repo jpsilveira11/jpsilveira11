@@ -11,8 +11,11 @@
 
 ## My Github stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=jpsilveira11&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpsilveira11&layout=compact&langs_count=6&theme=tokyonight"/>
+<a href="#">![Github Stats](https://github-readme-stats.vercel.app/api?username=jpsilveira11&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&line_height=20")</a>
+<a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpsilveira11&layout=compact&langs_count=6&theme=tokyonight&count_private=true&hide_border=true)</a>
+<!--&theme=blueberry&count_private=true&hide_border=true&line_height=20-->
+<!--<img src="https://github-readme-stats.vercel.app/api?username=jpsilveira11&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>-->
+<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpsilveira11&layout=compact&langs_count=6&theme=tokyonight"/>-->
 
 ## Contact me
 
